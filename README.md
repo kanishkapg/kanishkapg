@@ -73,7 +73,10 @@
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkapg&show_icons=true&locale=en&layout=compact" alt="kanishkapg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapg&" alt="kanishkapg" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapg&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkapg&show_icons=true&theme=radical" alt="kanishkapg contributions"/></p>
 
