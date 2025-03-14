@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kanishka Gunasinghe</h1>
-<h3 align="center">Computer Engineering Undergraduate from Sri Lanka</h3>
+<h1>Hi 👋, I'm Kanishka Gunasinghe</h1>
+<h3>Computer Engineering Undergraduate from Sri Lanka</h3>
 
-<p align="center">🌱 I’m currently learning <strong>Machine Learning</strong></p>
-<p align="center">📫 Reach me at: <strong>kanishkapg1121@gmail.com</strong></p>
-
----
+<p>🌱 I’m currently learning <strong>Machine Learning</strong></p>
+<p>📫 Reach me at: <strong>kanishkapg1121@gmail.com</strong></p>
 
 ## 🔗 Connect with me:
 <p align="left">
@@ -14,7 +12,7 @@
   <a href="https://www.kaggle.com/kanishkapraveen" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
   </a>
-  <a href="https://www.facebook.com/kanishka.praveen" target="_blank">
+  <a href="https://www.facebook.com/kanishka.praveen10/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <a href="https://medium.com/@kanishkapg1121" target="_blank">
@@ -24,8 +22,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Languages and Tools:
 ### Programming Languages:
@@ -76,7 +72,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapg&theme=dark" alt="GitHub Streak Stats" />
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkapg&show_icons=true&theme=radical" alt="kanishkapg contributions"/></p>
 
