@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
 </p>
 
 ### Frontend Development:
@@ -50,6 +49,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
+### Machine Learning:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+</p>
+
 ### Database & Cloud:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -60,16 +65,15 @@
 ### Tools & Others:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkapg&show_icons=true&locale=en&layout=compact" alt="kanishkapg" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkapg&show_icons=true&locale=en&layout=compact" alt="kanishkapg" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapg&" alt="kanishkapg" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapg&" alt="kanishkapg" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkapg&show_icons=true&theme=radical" alt="kanishkapg contributions"/></p>
+
